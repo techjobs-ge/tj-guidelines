@@ -1,4 +1,4 @@
-# რეზიუმეს შექმნის წესები(by [Tech Jobs Georgia](https://techjobs.ge))
+# რეზიუმეს შექმნის წესები (by [Tech Jobs Georgia](https://techjobs.ge))
 
 ## სარჩევი
 
