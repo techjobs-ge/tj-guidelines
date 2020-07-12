@@ -1,5 +1,7 @@
 # რეზიუმეს შექმნის წესები (by [Tech Jobs Georgia](https://techjobs.ge))
 
+![cover](images/cover.jpg)
+
 ## სარჩევი
 
   1. [ენა და ფორმატი](#1-ენა-და-ფორმატი)
