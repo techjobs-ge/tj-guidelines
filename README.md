@@ -31,8 +31,19 @@
   1. კლიშე ფრაზები
   1. ორთოგრაფია, პუნქტუაცია
   1. ტიპოგრაფიული კონსისტენტურობა
-  1. უნარები (Languages, Libraries and Frameworks, Paradigms, Platforms, Tools, Databases)
-  2. შეუსაბამო გამოცდილება
+  1. უნარები (Languages, Libraries and Frameworks, Paradigms, Platforms, Tools, Databases) [can be embedded in summary]
+  1. შეუსაბამო გამოცდილება [@sdolidze]
+  1. შენს შესახებ (summary) [@tatocaster]
+  1. არაფორმალური განათლება [@sdolidze]
+  1. პირადი პროექტები [@tatocaster]
+  1. Cover Letter [@tatocaster]
+  1. Open-source contributions [@tornikegomareli]
+  1. Soft skills experience (team work, review, deadline, communication) [@tatocaster]
+  1. Minimalistic colors (almost none) [@tatocaster]
+  1. Data must be in sync with LinkedIn (use iterative method) [@tornikegomareli]
+  1. Public activity, community involvement [@tatocaster]
+  
+  // @otarza
 
 ## 1. ენა და ფორმატი
   - რეზიუმე უნდა იყოს **ინგლისურ** ენაზე **pdf** ფორმატში.
